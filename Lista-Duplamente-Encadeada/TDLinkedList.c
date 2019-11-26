@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */
+
 #include "TDLinkedList.h"
 
 typedef struct d1node DLNode;

@@ -1,4 +1,9 @@
-#include "TStack.h"
+/**
+ *
+ * @author henrique
+ */
+
+include "TStack.h"
 
 #define MAX 100
 

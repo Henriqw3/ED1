@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "lista_circular.h"

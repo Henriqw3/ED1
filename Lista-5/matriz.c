@@ -1,6 +1,6 @@
 //HENRIQUE CORRÊA DE OLIVEIRA - 11821BSI251
 // MATRIZES
-
+//To execute remove /**/ one by one
 // EXERCÍCIO 1:
 
 /*

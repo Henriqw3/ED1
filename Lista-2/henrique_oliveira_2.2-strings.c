@@ -1,6 +1,6 @@
 //HENRIQUE CORRÊA DE OLIVEIRA - 11821BSI251
 //LISTA 2.2 - STRINGS
-
+//To execute remove /**/ one by one
 /**************
 
 //EXERCÍCIO 1:

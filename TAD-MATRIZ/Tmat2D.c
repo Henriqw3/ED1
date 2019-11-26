@@ -1,7 +1,7 @@
 //Henrique Corrêa de Oliveira - 11821BSI251
-//Tad de Matriz.c
+//Tad Matriz.c
 
-//>>>>>>>>>No arquivo Tmat2D.c<<<<<<<<<
+//>>>>>>>>>>>>No arquivo Tmat2D.c<<<<<<<<<<<<<<<<<
 //struct no ponto c pois queremos esconder do usuario
 // não teremos func main nesse .c, apenas funções e estruturas
 

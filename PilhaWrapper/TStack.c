@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */-
+
 #include "TStack.h"
 #include "lista.h"
 

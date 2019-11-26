@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */
+
 #include <stdlib.h>
 
 struct aluno {

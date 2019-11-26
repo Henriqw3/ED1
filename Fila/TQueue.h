@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */
+
 #ifndef TQUEUE_H_INCLUDED
 #define TQUEUE_H_INCLUDED
 

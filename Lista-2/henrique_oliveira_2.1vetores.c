@@ -1,6 +1,6 @@
 //HENRIQUE CORRÊA DE OLIVEIRA - 11821BSI251
 //LISTA 2.1 - VETORES
-
+//To execute remove /**/ one by one
 /**************
 
 //EXERCÍCIO 1:

@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */
+
 typedef struct 
 {
 	int matricula;

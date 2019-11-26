@@ -1,6 +1,6 @@
 //HENRIQUE CORRÊA DE OLIVEIRA - 11821BSI251
 //LISTA 3.2 - Alocação Dinâmica
-
+//To execute remove /**/ one by one
 //EXERCÍCIO 1:
 
 /*

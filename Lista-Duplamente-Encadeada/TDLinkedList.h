@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */
+
 #include <stdlib.h>
 #define SUCCESS 0
 #define INVALID_NULL_POINTER -1

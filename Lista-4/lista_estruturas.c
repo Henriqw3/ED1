@@ -1,6 +1,6 @@
 //HENRIQUE CORRÊA DE OLIVEIRA - 11821BSI251
 //Lista 4.1 - estruturas
-
+//To execute remove /**/ one by one
 //EXERCÍCIO 1:
 
 /*

@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */
+
 struct aluno{
 	
 	int matricula;

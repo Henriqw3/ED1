@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */
+
 #ifndef TSTACK_H_INCLUDED
 #define TSTACK_H_INCLUDED
 #include <stdlib.h>

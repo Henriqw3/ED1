@@ -1,6 +1,6 @@
 //HENRIQUE CORRÊA DE OLIVEIRA - 11821BSI251
 //LISTA 4.2 - Funções
-
+//To execute remove /**/ one by one
 //EXERCÍCIO 1:
 
 /*

@@ -1,3 +1,8 @@
+/**
+ *
+ * @author henrique
+ */
+
 struct aluno {
   char nome[30];
   int matricula;

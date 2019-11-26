@@ -1,5 +1,5 @@
 //Henrique Corrêa de Oliveira - 11821bsi251
-//Simples código para testar utilização do TAD matriz
+//main test
 
 #include <stdio.h>
 #include <stdlib.h>
